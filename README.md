@@ -3,6 +3,8 @@
 _Carnegie Mellon University – Spring 2025_  
 _Special Topics in AI Engineering and Policy for Climate Mitigation and Resilience_
 
+This is the inaugural offering of the course, marking its first introduction. Prior to this homework series, no previous assignments had been developed, making these the pioneering exercises for the course.
+
 ---
 
 ### About This Homework Series

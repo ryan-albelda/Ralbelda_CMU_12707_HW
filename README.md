@@ -20,9 +20,13 @@ This collection includes six assignments designed for graduate students explorin
 ### Homework Summaries
 
 #### 1. Homework 1  
-- **Topic**: *(Not specified)*  
-- **Objectives**: *(Not specified)*  
-- **Climate Dataset**: *(Not specified)*
+- **Topic**: Explore Python for climate data 
+- **Objectives**: 
+  - Review foundational Python skills and libraries for climate data analysis
+  - Apply basic Python operations and programming logic
+  - Load, explore, and visualize climate datasets with scatter plots and histograms
+  - Apply and interpret linear regression and standardization techniques
+- **Climate Dataset**: January temperatures data from various cities in Pennsylvania. Data range from 1949 to 2024. Data from NOAA
 
 ---
 
